@@ -1,0 +1,11 @@
+{
+  "dependencies": [
+    "fmt",
+    "glog",
+    "gflags",
+    {
+      "name": "cpr",
+      "default-features": false
+    }
+  ]
+}
