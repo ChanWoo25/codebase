@@ -1,1 +1,7 @@
+.vscode
+.clangd
+
 build
+install
+temp
+tmp
